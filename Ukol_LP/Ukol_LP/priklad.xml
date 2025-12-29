@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="windows-1250"?>
+<element1>
+  <element2 atribut1="hodnota1">
+    <element3 atribut1="hodnota1" atribut2="hodnota2">text1</element3>
+    <element4>text2</element4>
+  </element2>
+  <element5>text3</element5>
+</element1>

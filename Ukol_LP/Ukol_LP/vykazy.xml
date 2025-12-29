@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<vykazy>
+  <vykaz1>
+    <pacient>
+      <rodneCislo>8501011234</rodneCislo>
+      <jmeno>Jan</jmeno>
+      <prijmeni>Novák</prijmeni>
+    </pacient>
+    <vykon>
+      <kod>12345</kod>
+      <nazev>Preventivní prohlídka</nazev>
+      <datum>2025-09-15</datum>
+      <cena>500</cena>
+    </vykon>
+    <pojistovna>111</pojistovna>
+  </vykaz1>
+  <vykaz2>
+    <pacient>
+      <rodneCislo>9005056789</rodneCislo>
+      <jmeno>Petra</jmeno>
+      <prijmeni>Horáková</prijmeni>
+    </pacient>
+    <vykon>
+      <kod>67890</kod>
+      <nazev>Odběr krve</nazev>
+      <datum>2025-09-16</datum>
+      <cena>250</cena>
+    </vykon>
+    <pojistovna>201</pojistovna>
+  </vykaz2>
+</vykazy>
